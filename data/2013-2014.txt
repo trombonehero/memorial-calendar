@@ -1,0 +1,572 @@
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0504
+1010 Engineering Statics is the first course in Engineering mechanics. Forces and moments are described with vector algebra, leading to a description of the equilibrium conditions for particles and solid bodies. The importance of free body diagrams is highlighted. This knowledge is then applied to the analysis of trusses, frames and machines. Additional topics include an examination of friction and the concepts of centre of force, centroids and second moments of area.
+CO: Mathematics 1000
+CR: the former ENGI 1313
+OR: tutorial 1 hour per week
+PR: Level III Physics or Physics 1020 or equivalent
+1020 Introduction to Programming is an introduction to algorithmic problem solving techniques and computer programming, including basic program control structures (sequence, call, branch, loop) and data representations, functional decomposition, and design by contract. Exercises and examples are drawn from a variety of engineering disciplines and are implemented using a standard modern programming language.
+CR: the former ENGI 2420
+LH: at least four 2-hour sessions per semester
+PR: eligibility to register for Mathematics 1000
+1030 Engineering Graphics and Design provides two complementary competencies. Firstly, it provides an introduction to the fundamentals of graphic communication, including orthographic projections, three dimensional pictorials, sectioning and dimensioning. Both sketching and CAD are utilized. Secondly, the course introduces students to standard design methodologies. The graphics and design competencies are reinforced through lab and project exercises.
+LH: 3
+PR: eligibility to register for Mathematics 1000
+1040 Mechanisms and Electric Circuits is offered in two serial modules, including laboratory and workshop practice, and a team project to expose students to the concept of system integration involving electrical and mechanical systems. The electrical module provides an introduction to dc circuits, with an analysis of dc circuits used in control, measurement and instrumentation systems. The mechanism module provides an introduction to machine components such as belts, pulleys, gears, and simple linkages. The laboratory and workshop component introduces students to hands-on practice in basic laboratory instruments, tools and safety procedures. A team project involves the construction, assembly and testing of a simple mechanism.
+LH: 3
+PR: Level III Physics or Physics 1051 (which may be taken concurrently) and Mathematics 1000 (which may be taken concurrently).
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0517
+3001 Ocean/Naval Design is an introductory course to design in naval architecture and ocean engineering. It introduces the design challenges in a marine setting. A series of modules will familiarize the students with the main design issues. The first module covers the basic economic question of why ships are built. This is followed by an examination of the materials of construction and the primary fabrication method – welding. The third module deals with manufacturing, including design for manufacturing and the workflow process itself. The final module examines methods of marine design and performance evaluation. This covers numerical and experimental simulation methods and design software. There are several relevant labs and a design project.
+LH: at least six 3-hour laboratory sessions per semester
+3054 Ocean Engineering Hydrostatics is an introductory course to naval architecture and marine engineering. It discusses the basic principles of the statics of rigid floating or submerged structures. These include: ships, offshore platforms and submersibles. Methods of analysis of the hydrostatics, stability and trim, damage stability and the statics of mooring systems are introduced. Applications are also discussed.
+LH: at least nine 3-hour laboratory sessions per semester
+PR: ENGI 1010
+3101 The Engineering Workplace is a course that deals with issues associated with professional engineering practice. Topics will include workplace and professional ethics, public and workplace occupational health and safety including first-aid, equity, gender and diversity issues, and technical written, oral and visual communication.
+AR: attendance is required
+3424 Engineering Mathematics includes ordinary differential equations of first order and first degree; linear ordinary differential equations of higher order, methods of undetermined coefficients and variation of parameters; applications to electric circuits and mass-spring systems; Laplace transforms; partial differentiation; convergence of series; Taylor and binomial series; remainder term; and an introduction to Fourier series.
+CH: 4
+CR: the former ENGI 2422
+LC: 4
+OR: tutorial 1 hour per week
+PR: Mathematics 1001, Mathematics 2050
+3425 Mathematics for Civil Engineering I includes sequences & series, functions of a single parameter, conic sections, polar coordinates, partial differentiation, multiple integration, introduction to first order ordinary differential equations.
+CH: 4
+LC: 4
+OR: tutorial 1 hour per week
+PR: Mathematics 1001 and 2050
+3600 Introduction to Process Engineering is an introductory course in process engineering, which comprises principles and the practical aspects of organic, inorganic and biochemical processes. It emphasizes the structure and properties of organic, inorganic, and bio-chemicals; process flow sheeting, process variable identification and production processes. The course uses extensive examples from industrial processes. In laboratory sessions students will use HYSYS and OLI software to study process characteristics.
+CO: Chemistry 1051
+LH: at least four 2-hour sessions per semester
+3610 Earth Sciences for Civil Engineering is an introduction to basic concepts in Geology and Mining with emphasis on applications in Civil, Geological, Mining and Environmental Engineering through the use of case histories. It includes the study of rocks and minerals in selected field and laboratory exercises.
+LH: 3
+3703 Surveying and Geomatics includes plane surveying: distance, elevation, and angle measurements; horizontal and vertical curves; plane survey calculations; area and volume computations. Photogrammetry will be studied, including sensors and platforms, mathematics of photogrammetry; instruments and equipment, photogrammetric products, digital photogrammetry, remote sensing, and introduction to global positioning and geographical information systems (GIS). A surveying field school to introduce students to the use of surveying equipment and mapping will be held in the first two weeks of the term.
+LH: 3
+OR: 36-hour field school conducted during the first two weeks of the semester
+3731 Materials for Construction includes structure of metals and nonmetals; deformation of metals; strengthening mechanisms in metals; concrete and cementitious materials; admixtures; iron and steel; brick masonry; concrete masonry; mortar grout and plaster; reinforced masonry structures; wood and wood products. Relevant experiments are conducted.
+LH: at least ten 3-hour sessions per semester
+OR: up to ten 1-hour tutorials per semester
+3821 Circuit Analysis begins with a review of elementary circuits, then considers wye-delta transformation, bridge circuits; transient analysis of first- and second -order circuits; sinusoidal steady state analysis, phasor diagrams, maximum power transfer, frequency selective circuits (filters); and Laplace transforms in circuit analysis (transients, steady state, transfer function).
+CO: ENGI 3424
+CR: Physics 3550
+LH: at least five 3-hour sessions per semester
+OR: tutorial 1 hour per week
+PR: Mathematics 1001, Mathematics 2050, ENGI 1040
+3861 Digital Logic includes number systems and Boolean algebra; minimization techniques for Boolean functions; basic combinational logic circuit analysis and design; flip-flops, state machine design and implementation; decoders, multiplexors, registers, counters; simple arithmetic and logic unit (ALU) algorithms; introduction to hardware description languages (VHDL) for logic component and circuit modelling.
+CR: Computer Science 3723
+LH: at least six 3-hour sessions per semester
+OR: up to eight tutorial sessions per semester
+PR: ENGI 1040
+3891 Advanced Programming includes advanced procedural language programming; data structures, user defined types, pointers; modularization techniques, scope and data hiding; object-oriented programming; classes, objects and attributes; data encapsulation, member and non-member functions; overloading, methods and friend functions; inheritance, sub- and super-classes; templates.
+LH: at least nine 2-hour sessions per semester
+PR: ENGI 1020
+3901 Thermodynamics I is a macroscopic approach to heat, work, and energy; properties of pure substances; conservation of mass, energy for open and closed systems; thermal efficiency and coefficient of performance; second law of thermodynamics; and its corollaries; entropy; second law analysis of thermodynamic systems; second law efficiency.
+PR: Mathematics 1001
+3911 Chemistry and Physics of Engineering Materials I is an introduction to the structure and properties of engineering materials, in particular materials, semiconductors, ceramics, glasses and polymers. Topics include a review of atomic bonding, discussion of basic crystalline and amorphous structures, point and line defects, and the role these structural features play in elastic and plastic deformations, yield, fracture, glass transition, thermal conductivity, thermal expansion, specific heat and electrical conductivity.
+CR: the former ENGI 2205
+LH: at least four 3-hour sessions per semester
+OR: tutorial 1 hour per week
+PR: Chemistry 1050
+3934 Dynamics includes kinematics and kinetics of particles using rectangular, normal/tangential and polar coordinates; relative motion using rotating axes; two-dimensional kinematics and kinetics of rigid bodies; force-acceleration, work-energy and impulse-momentum methods.
+CR: the former ENGI 2313
+OR: tutorial 1 hour per week
+PR: ENGI 1010, Mathematics 1001, Mathematics 2050
+3941 Production Technology includes an overview of production: production strategies; dimensioning and tolerancing; basic material removal process; forming and shaping process; casting; molding, extrusion and joining processes; computer aided machining; new technologies.
+LH: at least eight 3-hour sessions per semester
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0534
+4011 Resistance and Propulsion examines the phenomena resisting the motions of ships and some factors considered in the design of the marine screw propeller. The topics include the resistance due to friction, wave making, form appendage, wind and waves, squat, blockage, and shallow water effects, and also include the estimation of powering using methodical series and statistical methods. Topics considered in the design of the marine screw propeller include propeller theory, blade sections, blade strength, methodical series charts, efficiency elements, lifting line calculations, cavitation, and propellers in non-uniform flow.
+CR: the former ENGI 5011
+LH: 3
+OR: tutorial 1 hour per week
+PR: ENGI 3054
+4020 Marine Fluid Dynamics includes fluid statics; fluid flow phenomena, in general and in marine applications; control volume analysis of fluid motion; conservation of mass, momentum and energy; differential approach to flow analysis; head losses; applications of conservation laws; external v.s. internal flow; dimensional analysis and scaling; fluid-structure interaction concepts; potential flow theory, lift and Kutta-Joukowski theorem; viscous flow, boundary layers and drag.
+LH: at least one 3-hour session per semester
+OR: tutorial 1 hour per week
+PR: ENGI 3054
+4102 Engineering Economics is an introduction to the concepts in the determination of the economic feasibility of engineering projects; time value of money – interest rates, depreciation, annual, present and future worth analysis; benefit-cost analysis, tangible and intangible benefits and costs; economic risk and sensitivity analysis, economic optimization.
+4312 Mechanics of Solids I examines force analysis of structures and structural components, free body diagrams of structure, components and section of a components, definition of a stress at point, stress notation, complementary property of shear stress, definition of strain, normal strain, shear strain, thermal strain, mechanical properties of materials, analysis of prismatic members due to axial, bending and torsion loading, analysis of beams, shear force and bending moment diagrams, combined loads; and the transformation of stresses and strains.
+LH: at least four 1-hour sessions per semester
+OR: up to ten 1-hour tutorials per semester
+PR: ENGI 1010
+4421 Probability and Statistics includes probability, probability distributions, probability densities, sampling distribution, hypothesis testing, regression and correlation.
+CR: the former ENGI 3423, STAT 2550, the former STAT 2510
+OR: tutorial 1 hour per week
+PR: Mathematics 1001
+4424 Discrete Mathematics for Computer Engineering is an introduction to discrete mathematics including a selection of topics such as propositional logic, introductory predicate logic, mathematical reasoning, induction, sets, relations, functions, integers, graphs, trees, and models of computation.
+CR: the former ENGI 3422, Mathematics 2320, or the former Computer Science 2740
+OR: tutorial 1 hour per week
+PR: Mathematics 2050
+4425 Mathematics for Civil Engineering II examines the analytical solutions of ordinary differential equations of the first and higher orders and numerical methods: errors, round off and stability, solution to nonlinear equations, curve fitting and interpolation methods, numerical differentiation and integration.
+CH: 4
+CR: the former ENGI 4422
+LC: 4
+OR: tutorial 1 hour per week
+PR: ENGI 3425
+4430 Advanced Calculus for Engineering includes parametric vector functions; polar curves; gradient, divergence and curl; multiple integration; vector calculus, theorems of Green, Stokes and Gauss; an introduction to partial differential equations; and application of advanced calculus to relevant engineering problems.
+CR: the former ENGI 5432
+OR: tutorial 1 hour per week
+PR: ENGI 3424
+4602 Process Engineering Thermodynamics extends the study started in ENGI 3901 of thermodynamics, with special reference to chemical process applications: basic laws, thermodynamic properties of pure fluids and mixtures, heat engines, multicomponent systems, thermal/mechanical equilibrium, chemical equilibrium, and thermodynamics of chemical processes. Special emphasis is placed on the application of thermodynamics to practical problems in chemical engineering such as phase equilibria, solutions and reaction equilibria in separations and reaction engineering.
+CR: CHEM 2300, the former CHEM 3300
+PR: ENGI 3901
+4621 Process Mathematical Methods introduces numerical methods in chemical engineering processes; sets of linear algebraic equations; simultaneous non-linear equations; polynomial functions; numerical integration; numerical differentiation; higher order ordinary differential equations, stiff equations, Runge-Kutta methods, boundary value problems, applications of eigenvalue problems (numerical solutions). It provides applications of the methods to different aspects of process engineering such as reactor design, separation, process modeling, equipment design and analysis.
+CO: ENGI 4625
+PR: ENGI 3424
+4625 Process Engineering Calculations is an introduction to the analysis of chemical processes with an emphasis on mass and energy balances. Stoichiometric relationships, ideal and real gas behaviour are also covered. The course will help Process Engineering majors in their second year to develop a framework for the analysis of flow sheet problems and will present systematic approaches for manual and computer-aided solution of full scale balance problems.
+CO: ENGI 4602
+PR: ENGI 3901
+4717 Applied Environmental Science and Engineering examines the nature and scope of environmental problems; concept of sustainable development; natural environmental hazards; introduction to ecology, microbiology and epidemiology; basic concepts of environmental quality parameters and standards; solid and hazardous wastes; atmospheric, noise, and water pollution, their measurements, and control.
+LH: at least ten 3-hour sessions per semester
+PR: completion of Term 3 of the Civil Engineering program
+4723 Geotechnical Engineering I begins with an introduction to soil as a three-phase material and examines physical and mechanical properties; structure; classification of soils; soil compaction; hydraulic properties; permeability; flow of water in soil; flownets; effective stress concept in soils; stresses in soils beneath loaded areas; and one-dimensional consolidation theory.
+LH: 3
+OR: tutorial 1 hour per week
+PR: completion of Term 3 of the Civil Engineering program
+4823 Introduction to Systems and Signals begins with an introduction to systems and signals, and includes mechanical and electrical analogues; principles of linear superposition and time-invariance; definitions, properties, and use of the delta function; applications of complex variables and functions; impulse and step responses; input-output relations of continuous-time systems in terms of convolution and transfer functions; frequency response plots; the Fourier transform and applications; applications of Laplace transforms to filtering, communications, and controls.
+OR: tutorial 1 hour per week
+PR: ENGI 3424, ENGI 3821
+4841 Electromechanical Devices includes an introduction to fundamental principles of energy conversion; review of three-phase systems; magnetic fields and circuits; transformer models, performance and applications; basic concepts of rotating machines; performance and control of dc machines.
+CR: the former ENGI 5842
+LH: at least six 3-hour sessions per semester
+OR: up to ten tutorials per semester
+PR: ENGI 3424, ENGI 3821
+4854 Electronic Circuits I provides an introduction to semiconductor electronic devices and circuits. Topics covered include internal structure of electronic devices; working principles, dc and small-signal models and analysis of p-n junction diodes, bipolar junction transistors and field effect transistors; introduction to digital electronics; differential and multistage amplifier circuits; internal circuits of operational amplifiers; output stages; practical applications of the devices to the design of power supplies, amplifiers and switching circuits. CAD tools are used to illustrate the analysis and design of electronic circuits.
+LH: at least ten 3-hour sessions per semester
+OR: tutorial 1 hour per week
+PR: ENGI 3821, Physics 3000
+4862 Microprocessors is a course on microprocessor architecture; assembly language programming: addressing modes, table look up; memory mapped devices; interfacing techniques: parallel, serial; timing control; analog input and output, and computer displays.
+LH: at least eight 3-hour sessions per semester
+PR: ENGI 3861
+4892 Data Structures examines fundamental data structures; recursive structures and programming techniques; modularity and reusability; time complexity and efficient data structures; procedural abstraction; data abstraction and precise documentation of data structures.
+CO: ENGI 4424
+PR: ENGI 3891
+4901 Thermodynamics II examines thermodynamic cycles: power and refrigeration applications; human comfort and air conditioning: mixture of gases and vapours, humidity, psychrometrics; chemically reacting mixtures and combustion.
+LH: at least two 2-hour sessions per semester
+PR: ENGI 3901
+4932 Mechanisms and Machines includes an overview of mechanisms within machines; graphical and analytical methods for position, velocity, and acceleration analysis of moving mechanisms; kinematics and kinetics of planar mechanisms; static and dynamic loads on mechanisms and an introduction to mechanism synthesis. There is an analysis project.
+CR: the former ENGI 3933
+OR: tutorial 1 hour per week
+PR: ENGI 3934
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0554
+5003 Ship Structures I examines longitudinal strength, still water and wave bending moment, shear and bending moment curves, Smith Correction, section modulus calculation, torsion and racking forces; bulkhead and girder scantlings, portal frame analysis by moment distribution and energy method; finite element analysis and the use of Classification Society rules for design of midship section.
+CR: the former ENGI 6002
+PR: ENGI 4312
+5020 Marine Propulsion is a second course in marine propellers and ship powering. The purpose of this course is to give students the principles of design and analysis of marine screw propellers and other propulsion devices. The course introduces various marine propulsion devices including conventional and unconventional propulsion systems. It covers methods of propeller design and propeller design philosophy. Emphasis is placed on the design of fixed-pitch propellers based on the lifting line theory and the design of ducted propellers. The student will also develop some insight into the design of other propulsion systems such as waterjets and sails.
+CR: the former ENGI 6020
+LH: at least one 3-hour session per semester
+PR: ENGI 4020
+5022 Stochastic Processes in Ocean Engineering includes basic concepts in probability, random variables, multiple random variables, descriptive statistics. The random processes component reviews mathematics of functions; introduces system input-output relations of continuous-time systems; contrasts time vs frequency domain representations; introduces frequency response plots and the Fourier transform; includes selected applications for ocean engineering.
+OR: tutorial one hour per week
+PR: ENGI 4020, Mathematics 2260 or the former Mathematics 3260
+5312 Mechanics of Solids II begins with an introduction to earlier concepts then considers strain transformation; deflections of beams and shafts, energy methods; failure theories; buckling of columns and the inelastic behaviour of beams.
+LH: at least five 3-hour sessions per semester
+PR: ENGI 4312
+5420 Probability and Random Processes includes basic concepts in probability, random variables, multiple random variables, descriptive statistics, random processes and selected applications for engineering.
+PR: Mathematics 1001 and ENGI 4823
+5434 Applied Mathematical Analysis examines numerical and analytical solutions of applied mathematical problems in Civil Engineering, problems with higher order ordinary differential equations, stiff equations, systems of ODE, Runge-Kutta methods, boundary value problems, applications of eigen value problems (numerical solutions), Fourier analysis, elliptic, parabolic and hyperbolic partial differential equations and their numerical solutions with engineering applications.
+PR: ENGI 4425
+5601 Mass Transfer covers diffusive as well as convective mass transfer, mass transfer correlations, and the application to absorption and dehumidification.
+LH: at least seven 2-hour sessions per semester
+PR: ENGI 4602
+5621 Process Modelling and Analysis is designed to introduce the concepts of process model building and its application in design and process scheduling. It includes fundamentals of process modelling, lumped parameter dynamic models, distributed parameter dynamic models, advanced dynamic model development, application of process models, and computer aided process design. The course will also introduce concepts and applications of process optimization, process flow sheet optimization, process scheduling, and process flexibility analysis.
+PR: ENGI 4621, ENGI 4625
+5671 Process Equipment Design I introduces the principles of unit operations, grouped into four sections: fluid mechanics, heat transfer, mass transfer and equilibrium stages, and operations involving particulate solids. It also includes design and operation fundamentals of unit operations: size reduction, filtration, evaporation, drying, crystallization, and humidification, and membrane separation.
+CO: ENGI 5601
+LH: at least four 2-hour sessions per semester
+PR: ENGI 4621, ENGI 4625
+5706 Design of Concrete Structures begins with a review of concrete mix design. Topics include design methods and requirements, strength of rectangular sections in bending, balanced condition at ultimate strength with tension reinforcement, bending with both tension and compression reinforcement; serviceability, deflections, flexural crack control for beams and one-way slabs; shear strength, inclined cracking, and shear reinforcement; bond stress and development of reinforcement; T-sections in bending; members in compression and bending; length effects, lateral ties, spiral reinforcement and longitudinal bar placement.
+LH: at least five 3-hour sessions per semester
+PR: ENGI 4312
+5713 Fluid Mechanics examines fluid characteristics; fluid statics; buoyancy and stability; kinematics; pressure measurement; continuity, energy and momentum principles; energy and hydraulic grade lines; free jets; laminar and turbulent flow; dimensional analysis; drag on immersed bodies; flow measurement.
+CR: the former ENGI 4913
+LH: at least five 1-hour sessions per semester
+PR: ENGI 4425
+5723 Geotechnical Engineering II examines shear strength of soil, types of laboratory and in-situ soil tests; immediate and consolidation settlement of foundations; plastic equilibrium in soils; limit equilibrium method; earth retaining structures; introduction to bearing capacity theories; and stability of slopes. Relevant laboratory exercises and projects are also included.
+CR: the former ENGI 6723
+LH: 3
+PR: ENGI 4723
+5800 Electrical Engineering Design students will work in pairs on small design projects that will require them to follow a hierarchy of design process which includes general product definition, specifications and requirements, functional block diagrams, definition of specification of functional blocks for circuit level synthesis and implementation, system integration, simulation or modelling, testing and verification. The small projects are designed to encourage and motivate students to learn and practise the process of design. The course will culminate in a large design project.
+CO: ENGI 5821, ENGI 5854
+LC: at least 10 lecture hours per semester
+OR: meetings with project supervisor as required
+PR: ENGI 4841, ENGI 4854, ENGI 4862
+5812 Basic Electromagnetics includes a review of relevant vector calculus, including the divergence, gradient and curl operators in Cartesian, cylindrical and spherical coordinates, divergence theorem, Stokes' theorem, and Laplace's and Poisson's equations. Topics in electrostatics include Coulomb's law, potential and energy, conductors, dielectrics, capacitance and electric field boundary conditions. Topics for magnetism include the steady magnetic field, the Biot-Savart law, Ampère's law, magnetic force, potential and magnetic materials and boundary conditions.
+PR: ENGI 3821, ENGI 4430
+5821 Control Systems I includes an introduction to control systems with a negative feedback; mathematical modelling and transfer functions of electromechanical systems; block diagram reduction and signal flow graphs; controller realization using op-amps; transient response analysis; Routh's stability criterion; basic control actions and response of control systems; root locus analysis and design; frequency response analysis; Bode diagram; gain and phase margins; compensator design in frequency domain; Nyquist stability criterion; A/D and D/A conversion, digital implementations of analog compensators; and an introduction to PID controller tuning methods.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 4823
+5854 Electronic Circuits II provides an introduction to circuits using operational amplifiers. Topics covered include operational amplifier configurations, analysis, and design; transient and frequency response of amplifier circuits; feedback amplifier analysis and design, stability and compensation techniques; noise and distortion in electronic circuits; analysis and design of data converters; and an introduction to analog filter design. CAD tools are used to illustrate the analysis and design of electronic circuits.
+LH: at least five 3-hour sessions per semester
+PR: ENGI 4823, ENGI 4854
+5865 Digital Systems includes concepts, language, tools, and issues pertaining to specification, modelling, analysis, simulation, testing and synthesis of digital systems, including PLD, FPGA, and ASIC devices. Industry standard CAD tools will be used in this course to facilitate system design and testing.
+LH: at least ten 3-hour sessions per semester
+PR: ENGI 3891, ENGI 4862
+5895 Software Design examines the development process: requirement analysis, design, iterative development, design documentation; an introduction to the Unified Modelling Language: use cases, class diagrams and sequence diagrams; an introduction to software design patterns: creational patterns, structural patterns and behavioural patterns; object oriented, modular decomposition. The course includes a major design project.
+LC: at least 15 lecture hours per semester
+OR: meetings with project supervisor as required
+PR: ENGI 4892
+5911 Chemistry and Physics of Engineering Materials II examines aspects of chemical and physical processes and microscopic structure relevant to the production and use of engineering materials, focussing on metals, alloys, silicates, Portland cement, plastics and adhesives, composites, and wood. Topics include solid-state solutions and compounds, alloy structures, phase diagrams, reaction rates, solid-state transformations, polymerization, oxidation and corrosion, hardness, creep, fatigue, fracture toughness and visco-elastic deformation.
+CR: the former ENGI 3205
+LH: at least four 3-hour sessions per semester
+OR: tutorial 1 hour per week
+PR: ENGI 3911
+5931 Advanced Mechanics of Deformable Solids examines stresses due to combined loads, thin-walled pressure vessels, transformation of stresses and strains, principal stresses and strains (two and three dimensional stresses), Mohr's circle, theory failures, stress concentrations, energy methods, buckling of columns, thick-walled cylindrical pressure vessels, rotating disks, multi layered thick walled pressure vessels, shrink fits and contact stresses.
+CR: ENGI 5312
+LH: at least four 2-hour sessions per semester
+PR: ENGI 4312
+5952 Mechatronics I (same as the former ENGI 4951) examines the dynamic behavior of mechanical, electrical, fluid, and thermal systems based on a lumped-parameter approach. Topics covered include modelling and analysis of dynamic systems; computer-aided modelling of mechanical systems with non-linear elements; transient and frequency response; Laplace transforms, transfer functions, and generalized impedances; applications of operational amplifiers, signal conditioning, and filtering; instrumentation for strain and temperature measurement.
+CR: the former ENGI 4951
+LH: five 3-hour sessions per semester
+PR: ENGI 1040, ENGI 3424
+5961 Fluid Mechanics I examines fluid statics; fluid flow phenomena; control volume analysis; conservation of mass, momentum, and energy; Bernoulli equation; head losses, applications of conservation laws: flow measurement devices; pipe networks; momentum devices, dimensional analysis, boundary layer phenomena, lift and drag.
+CR: the former ENGI 4913
+LH: at least five 1-hour sessions per semester
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0578
+6003 Ship Structures II is an introduction to ship structural safety and rational design. Topics include local strength analysis, elastic, plastic and ultimate strength of plating, frames and grillages, buckling of columns and plates and fatigue and fracture in ships.
+CR: the former ENGI 7002
+LH: at least one 4-hour session per semester
+PR: ENGI 5003
+6005 Floating Ocean Structures Design introduces floating structures used in the offshore petroleum industry, along with functional requirements, such as drilling and production, of the platforms. Field development criteria are discussed in the context of platform concept selection and synthesis. Environmental loads are examined, focussing on wave loads and ice loads. Diffraction theory and its application on offshore structures is presented. Offshore safety is discussed in terms of major hazards, risk management, and case studies.
+CR: the former ENGI 7005
+LH: 1
+PR: ENGI 3054
+6055 Marine Cybernetics examines propulsion and motion control of ships, submersibles and offshore structures. Building upon the student’s knowledge of mathematics, mechanics and hydrodynamics provides an introduction to control systems and mathematical modeling of marine systems. Course components include: basic control actions and response of control systems; simulation and design of control systems; dynamic positioning; power management; marine automation.
+LH: at least four 2-hour sessions per semester
+PR: ENGI 4011
+6101 Assessment of Technology deals with the issues of the impact of technology on society from an economic, environmental and sociological point of view. Public safety as an engineering responsibility will also be covered. Students will be expected to participate in group discussions, write a number of essays and give oral presentations.
+6322 Thermal Sciences examines fundamental concepts associated with thermodynamics, fluid dynamics and heat transfer; first and second laws of thermodynamics; system and control volume analysis; classification of flows; introduction to boundary layers and drag; convection, conduction and radiation heat transfer; thermal insulation and calculation of R-values; and cooling of electrical components.
+CR: the former ENGI 4322
+PR: ENGI 5312
+6602 Offshore Petroleum Geology and Technology introduces basic concepts in geology and geophysics of the offshore environment. An outline of petroleum geology is presented, following a path from the origins of hydrocarbons through migration in the Earth’s crust, accumulation in reservoirs and the strategies used to discover and to exploit liquids found in the subsurface. Topics include an introduction to the offshore oil and gas industry in harsh environment, type of platforms and structures, exploration phase of offshore oil development, production drilling and completion processes and equipment, and oil and gas transportation system. There are case studies and a project.
+PR: completion of Academic Term 5
+6631 Chemical Reaction Engineering will cover the fundamentals of chemical kinetics and reaction rate expressions as well as the types of reactors, homogeneous and heterogeneous (catalytic) reactors, and the interrelation between transport phenomena and reaction engineering as it applies to process design. It also includes non-ideal flow, non-ideal reactors, catalytic reaction system, and multiphase reactors.
+LH: at least four 2-hour sessions per semester
+PR: ENGI 4621, ENGI 5961
+6651 Sustainable Engineering in Processing Industries will introduce students to sustainable development and its application to processing operations. Areas such as traditional economic growth, materials cycles, methods for measuring environmental impact, life cycle analysis, waste treatment technologies and recycling technologies will be covered. In addition, the concept of industrial ecology will be included.
+PR: ENGI 4625, ENGI 5601
+6671 Process Equipment Design II will cover design and operation of equilibrium stage separation processes including distillation, extraction, and leaching. It will also cover advanced concept of equipment design such as heterogeneous system, multiphase system, absorption, and adsorption operation and computer assisted design. Course will use HYSIS and other process equipment design tools.
+LH: at least four 2-hour sessions per semester
+PR: ENGI 5601, ENGI 5671
+6705 Structural Analysis I examines structure classification and loads, building code provisions, analysis of statically determinate arches and frames, shear and moment diagrams for frames, influence lines for statically determinate structures, approximate analysis of indeterminate trusses and frames, the force method of analysing indeterminate beams and frames, an introduction to slope deflection method, and moment distribution method.
+LH: at least five 3-hour sessions per semester
+PR: ENGI 5312
+6707 Design of Concrete and Masonry Structures examines design methods for reinforced concrete two-way slabs, two-way slabs supported on walls and stiff beams, design of two-way slab systems, direct design method and equivalent frame method, design of concrete retaining walls and basement walls, engineered masonry, allowable masonry stresses, mortar stress, analysis and design of flexural members, axial load and bending in unreinforced and reinforced walls, columns and masonry shear walls.
+LH: 2
+PR: ENGI 5706
+6713 Hydraulics examines flow in pipe systems and networks; uniform and non-uniform flow in open channels; hydraulic machinery and associated conduits; design and analysis of culverts; and pipeline/pump system optimization.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 4102, ENGI 5713
+6718 Environmental Geotechniques examines soil characteristics; soil mineralogy; soil water interaction; soil contaminant interactions; advection, adsorption and diffusion; non-aqueous phase liquids; geosynthetics; design of landfills; and use of waste materials. Relevant software programs are used.
+CR: the former ENGI 7718
+PR: ENGI 5723
+6749 Construction Planning Equipment and Methods includes construction equipment selection and utilization; earthmoving including use of explosives; case studies of major civil projects; principles of project planning and control; computer applications to the construction industry.
+CR: the former ENGI 8749
+PR: ENGI 4102, completion of Academic Term 5 of the Civil Engineering program
+6813 Electromagnetic Fields is a continuation of the topics started in Engineering 5812, including a review of electrostatics and magnetostatics, Maxwell’s equations, Lorentz force, Poynting's theorem, plane waves, and applications including two-wire transmission lines.
+LH: at least three 3-hour sessions per semester
+PR: ENGI 5812
+6843 Rotating Machines examines the fundamentals of rotating machines; design of machine windings; polyphase and single phase induction motor theory and applications; synchronous machine theory; stability and control of synchronous generators; control and protection of rotating machines, an introduction to A.C. motor drives, and machines.
+LH: at least six 3-hour sessions per semester
+PR: ENGI 4841
+6855 Industrial Controls and Instrumentation examines control and instrumentation system components; transducers and signal processing circuits, linear variable differential transformers, power oscillators; electromechanical actuators, solenoids, power drives; A/D and D/A conversion, standard PC interfaces; real-time operating systems; design of discrete-time feedback controllers on a PC platform; system integration, control system tweaking and troubleshooting; programming soft-PLC's using IEC61131.
+CR: the former ENGI 7858
+LH: at least eight 3-hour sessions per semester
+PR: ENGI 5821
+6856 Power Electronics is an overview of power semiconductor switches, an introduction to energy conversion and control techniques and examination of controlled rectifiers; phase-controlled converters; switch-mode dc/dc converters; variable frequency dc/ac inverters; ac/ac converters; design of thyristor commutation circuits, gate and base drive circuits, and snubber circuits; thermal models and heat sink design.
+CR: the former ENGI 7846
+LH: at least ten 3-hour sessions per semester
+PR: ENGI 5854
+6861 Computer Architecture begins with a review of microprocessors and computer organization. Topics include fundamentals of computer design: performance metrics and cost; instruction set architecture; memory hierarchy design: cache, main memory and virtual memory; pipelining: hazards, parallelism; special purpose processors; multiprocessors and thread-level parallelism.
+PR: ENGI 4862
+6871 Communication Principles begins with a review of signal representation and analysis and includes distortionless signal transmission, analog modulation (AM, FM and PM), super-heterodyne receiver, sampling theorem, pulse amplitude modulation (PAM), pulse code modulation (PCM), delta modulation, baseband digital transmission, digital modulation techniques (ASK, FSK and PSK).
+LH: at least four 3-hour sessions per term
+PR: ENGI 4823, ENGI 5420
+6876 Communication Networks is an introduction to communication networks such as the telephone network and the Internet. Topics include flow control and error control; circuit switching; packet switching; local area networks; internetworking; communication architectures and protocols.
+PR: ENGI 5420
+6892 Algorithms, Complexity, and Correctness presents fundamental theories and practices for the design of correct and efficient computing systems, including specification of computing systems and their components, correctness with respect to specifications; methods of verification; algorithmic problem solving strategies (such as divide and conquer, dynamic programming, etc.); tractability and intractability of computational problems.
+PR: ENGI 4424, ENGI 4892
+6901 Heat Transfer I examines modes of heat transfer; conduction: steady 1-D conduction, thermal resistance, extended surfaces (fins), lumped capacitance analysis, 1-D transient conduction; convection: Newton’s law of cooling, convection heat transfer coefficient, external boundary layer flows, internal flows, natural convection; radiation: principles, properties, exchange factors, black body radiation, and enclosures, radiation shields.
+LH: at least one 3-hour session per semester
+PR: ENGI 4901
+6928 Computer Aided Engineering Applications (same as the former ENGI 7928) introduces a variety of Computer Aided Engineering (CAE) applications based on advanced 3D CAD modelling. The fundamentals of 3D modelling are covered including parametric and feature-based design. CAE applications include assembly modelling, mechanism animation and finite element analysis. Further applications include Computer Aided Manufacturing (CAM); model based inspection (i.e. Coordinate Measurement Machines); reverse engineering; document/drawing production; data exchange; and data management. The course has a significant lab component, which provides exposure to solid modelling and CAE applications based on an industrial CAD/CAM/CAE package.
+CO: ENGI 6929 or the former 5926 or 5927
+CR: the former ENGI 7928 or 7962
+LH: at least ten 3-hour sessions per semester
+PR: ENGI 1030
+6929 Mechanical Component Design I (same as the former ENGI 5927) examines adequacy assessment and synthesis of machine elements with a focus on failure prevention, safety factors, and strength; static failure of ductile and brittle materials, fatigue analysis of components. Topics include the design of power screws, bolted connections, welds, springs, and shafts.
+CR: the former ENGI 5926 or 5927
+LH: at least eight 3-hour sessions per semester
+PR: ENGI 4312
+6933 Mechanical Vibrations examines single degree of freedom systems: free vibration, energy methods, response to harmonic excitation, response to arbitrary inputs, two degree of freedom systems: natural frequencies and mode shapes, dynamic vibration absorber.
+CR: the former ENGI 5932
+LH: at least four 2-hour sessions per semester
+PR: ENGI 3934
+6951 Automatic Control Engineering examines the performance of feedback control systems. The topics covered in the course are: feedback control concept; control system performance; control system stability; nonlinear phenomena. There is a project which makes use of a peripheral interface controller or PIC. There are 3 laboratory exercises. Extensive use is made of MATLAB.
+CR: the former ENGI 6925
+LH: at least three 1-hour sessions per semester
+PR: ENGI 5952 or the former ENGI 5951
+6961 Fluid Mechanics II examines differential analysis of fluid motion; conservation of mass: continuity equation; conservation of momentum: Navier-Stokes equations; conservation of energy; inviscid incompressible flows; low Reynolds number flows; boundary layer flows; compressible flows.
+CR: the former ENGI 5913
+LH: at least three 1-hour sessions per semester
+PR: ENGI 5961
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0605
+7000 Ocean Systems Design examines the preliminary design methods for the design of marine platforms and vehicles from mission statement to the selection of one or more acceptable solutions; weight and cost estimating, power requirements estimating, and selection of principal design characteristics and economic and operational evaluation of alternative solutions. There are relevant design laboratory projects.
+CR: the former ENGI 7052
+LH: 3
+PR: ENGI 3001, ENGI 3054, ENGI 4102
+7007 Marine Materials examines the properties and uses of steel and aluminum in marine applications. Topics include: overview of shipbuilding process; review of mechanics of materials, Hooke’s Law, material failure models; carbon steel properties, grades, classification, testing; welding of steel - fundamentals, processes, preparation, design, drawings, certification; joining of aluminum - riveting, welding.
+LH: at least 4 three-hour sessions per semester
+PR: CHEM 1050, ENGI 4312
+7033 Marine Hydrodynamics examines the fundamental equations of hydrodynamics, boundary layers; potential flow, added mass, damping, circulation, and vorticity; numerical methods for hydrodynamic coefficients; water waves and loading for regular and irregular seas.
+LH: at least one 3-hour session per semester
+PR: ENGI 4020
+7035 Dynamics and Maneuvering of Ocean Vehicles (same as the former ENGI 6030) examines applications of the linearised equations of motion to ocean vehicle problems with single and multiple degrees of freedom; dynamics and maneuvering of marine vehicles: motions in calm water and in waves; hydrodynamics effects such as added mass, radiation and viscous damping; strip theory; irregular motions; and systems for course keeping and motion control.
+CR: the former ENGI 6030
+PR: ENGI 3054, ENGI 4020
+7045 Marine Engineering Systems examines shafting system design; shafting system vibration analysis, study of exciting forces and moments, and balancing of reciprocating and rotating machinery; heat transfer and marine heat exchangers; incompressible fluid flow and piping system design and selection of appropriate pumping devices.
+CH: 4
+LC: 4
+LH: 1
+PR: ENGI 3901, ENGI 6933
+7102 The Engineering Profession examines the origins and development of Engineering as a profession and its values, the place of technology in society and the nature of technological decisions. Topics will include the role and responsibility of the professional engineer in society, code of ethics, sustainable development and environmental stewardship.
+CR: the former ENGI 5101
+PR: ENGI 003W
+7621 Process Dynamics and Control familiarizes students with the scientific and engineering principles of process dynamics and control. Students will apply and integrate knowledge of chemical engineering to identify, formulate and solve process dynamics problems and develop control systems. Modern computational techniques and tools will be used for solving chemical process control problems. Also students will become familiar with industrial control systems.
+LH: at least six 2-hour sessions per semester
+PR: ENGI 5621
+7623 Process Simulation provides students with the knowledge and experience to use a process simulator effectively for the analysis and synthesis of process flowsheets, mass and energy balances, sizing of individual component and process unit, reactor modeling, separation device modeling, heat exchanger modeling, and dynamic and steady state analysis.
+LH: at least nine 2-hour sessions per semester
+PR: ENGI 5621, ENGI 6671
+7640 Process Engineering Project I gives students the opportunity to apply the knowledge gained in previous design and technical courses to the complete design of a piece of process equipment, e.g. distillation column, evaporator, membrane separation unit, etc. The goal is to expose the students to practical design issues that arise in process equipment design, and to provide experience in the complete design process as applied to real devices. This course is a precursor to ENGI 8640 where students will work in groups to design a process system.
+LC: scheduled as required
+PR: ENGI 4102, completion of academic term 6 of the Process Engineering program
+7650 Offshore Oil and Gas Engineering Project I is a multidisciplinary design project that illustrates the application of previous engineering science and design related courses. The project will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the offshore oil and gas engineering industry. Lectures will be scheduled as required. This is the Term 7 project and if the scope of the project is such that it needs to continue, then the student will have the option to continue the same project in term 8 (in ENGI 8650).
+LC: 1
+PR: completion of Academic Term 6
+7651 Industrial Pollution Control/Pollution Prevention is designed to introduce methods of industrial pollution assessment and control. Topics include waste characterization, water pollution assessment, water pollution control, air pollution assessment and control, solid waste assessment and control, pollution prevention, environmental risk assessment and risk based decision making.
+PR: ENGI 5621, ENGI 6671
+7680 Supervisory Control and Data Acquisition examines data acquisition and intelligent field devices; distributed systems and fieldbus technology; programmable logic controllers and programming standards; operator control interface; supervisory control and data acquisition; and enterprise organization.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 5821
+7691 Mining and Metallurgical Process Engineering is designed to provide students with a basic fundamental background to the mining, mineral processing, and extractive metallurgical processing industry from both traditional and modern industrial methodologies. Concepts such as a mine design, mineral flow sheets, extraction methods, and examples from industrial applications will be reviewed with problems.
+LH: at least four 2-hour sessions per semester
+PR: completion of academic term 6 of the Process Engineering program
+7704 Design of Steel Structures begins with a review of Design Concepts, Standards and Products. Topics include design of members and connections, tension members, bolted joints, welded joints, compression members, stability and effective length, flexural members, beams & beam-columns, plate girders, composite construction, introduction to serviceability, and deflections.
+LH: at least four 2-hour sessions per semester
+PR: ENGI 5706 or approval of the Discipline Chair
+7706 Finite Element Structural Analysis includes a review of basic concepts required for FEA, basics of stiffness formulation, direct stiffness method, displacement method, one dimensional elements, trusses and frames. Topics include 1-D fluid and heat transfer elements, automated analysis and modelling concepts, higher order elements, two dimensional elements - plane stress and plane strain, introduction to 3D and other types. - introduction to advanced topics and isoparametric formulation.
+LH: at least eight 2-hour sessions per semester
+PR: ENGI 6705 or approval of the Discipline Chair
+7707 Reliability and Environmental Loading on Offshore Structures begins with an introduction to natural phenomena that cause loading and influence the design of marine structures. Topics include the interpretation and utilization of field data for the determination of design loads for wind, waves currents and ice and case studies of load analysis for the design of offshore structures in Atlantic Canada.
+PR: ENGI 5312
+7713 Hydrology and Water Resources examines precipitation, snowmelt, infiltration, runoff and streamflow; statistical treatment of hydrologic data; hydrograph analysis and synthesis; evaporation; structure design floods; reservoir storage and flood routing; urban run-off and drainage.
+LH: at least 6 hours per semester
+PR: ENGI 5713, ENGI 6322
+7716 Hydrotechnical Engineering examines the theory and application of steady gradually-varied flow in artificial and natural open channels together with an introduction to appropriate software; erosion protection and mobile-boundary hydraulics; problems with ice in rivers, the design of spillways, energy dissipaters, and culverts; physical scale models. There is an introduction to water hammer and surge tanks.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 6713
+7723 Geotechnical Engineering III examines soil investigation and site characterization; pile foundations; embankment dams; elements of geotechnical earthquake engineering; constitutive theories for soil materials; and numerical methods in geotechnical engineering. The students select two of the above topics on which they are interested in concentrating their efforts. Bi-weekly lectures are offered on the other topics at an informal level.
+PR: ENGI 5723
+7745 Highway Engineering examines design and construction of highways including driver, vehicle and road characteristics; highway location and geometric design; soil classification; subgrade and base materials; highway drainage; flexible and rigid pavement; and highway economics.
+PR: completion of Academic Term 6 of the Civil Engineering program
+7748 Project Planning and Control includes an introduction to types of contracts, project delivery approaches, and prevailing contractual relationships. The course examines basic project management techniques for network planning and scheduling (CPM and PERT); principles of resource productivity databases, preliminary estimating, and detailed bid preparation; quantitative approaches for effective control of time, cost, resource, quality, and value of constructed facilities; use of computer software for scheduling, estimating, and control.
+PR: completion of Academic Term 6 of the Civil Engineering program
+7803 Electrical Engineering Design Project I provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving an electrical engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ENGI 8853.
+CR: the former ENGI 7800
+LC: at least 10 lecture hours per semester
+OR: weekly meetings with project supervisor
+PR: ENGI 4102, completion of Academic Term 6 of the Electrical Engineering program
+7804 Computer Engineering Design Project I provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a computer engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ENGI 8854.
+CR: the former ENGI 7800
+LC: at least 10 lecture hours per semester
+OR: weekly meetings with project supervisor
+PR: ENGI 4102, completion of Academic Term 6 of the Computer Engineering program
+7811 Antennas examines the fundamentals of electromagnetic radiation; potentials; small antennas and antenna parameters; thin linear wire antennas and antenna arrays; antenna impedance and ground effects; Friis transmission formula; and aperture antennas.
+LH: at least three 3-hour sessions per semester
+PR: ENGI 6813
+7814 Electromagnetics for Communications examines vector calculus; Green’s, Stokes’ and Gauss’ theorems; Maxwell’s differential and integral equations; steady-state and time-varying aspects of Maxwell’s equations; uniform plane wave propagation in various media; and applications of electromagnetics in communications.
+PR: ENGI 3424, ENGI 3821
+7824 Introduction to Digital Signal Processing examines sampling theory; the discrete Fourier transform; the efficient fast Fourier transform algorithm; elementary discrete-time signals; the discrete-time Fourier series; the discrete-time Fourier transform; discrete-time linear and time-invariant systems; linear constant-coefficient difference equations; the convolution sum; the z-transform and frequency response of discrete-time systems; an introduction to digital filter design techniques; and digital signal processing applications.
+PR: ENGI 6871
+7825 Control Systems II examines state space models for multi-input/output systems; observability, controllability; state feedback without and with integral controller structure, state observers; quadratic optimal regulator and tracking control strategies; discrete-time state equations; and an introduction to optimal control.
+CR: the former ENGI 6825
+PR: ENGI 5821
+7844 Power System Analysis begins with an introduction to electric power systems. Topics include per unit quantities; transmission line parameters; modelling of power system components; single line diagrams; network equations formulation; bus impedance and admittance matrices; load flow analysis and control; design of reactive power compensation for power system performance enhancement; tap changing, auto and control transformers for power system application; economic dispatch and optimal power flow studies.
+LH: at least six 3-hour sessions per semester
+PR: ENGI 6843
+7854 Industrial Machine Vision is a senior undergraduate course in computer vision with an emphasis on techniques for automated inspection, object recognition, mechanical metrology, and robotics. Image processing courses typically focus for image enhancement, restoration, filtering, smoothing, etc. These topics will be covered to a certain degree but the main focus will be on image segmentation, feature extraction, morphological operators, recognition and photogrammetry. Issues related to the efficient software implementation of these techniques for real-time applications will also be addressed. While there is no prerequisite for this course non-computer engineering students must have reasonably strong programming skills.
+7855 Communications Electronics begins with an introduction to communications systems components and a review of linear amplifiers. The course examines linear amplifier design and characteristics using s-parameters; power amplifiers; mixers; oscillators; modulator/demodulator circuits and subsystems; and the integration of subsystems into analog and digital communication systems.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 5854, ENGI 6871
+7856 Renewable Energy Systems examines the assessment of wind energy potential, wind turbine aerodynamics, types, modelling and control strategies; hybrid energy systems; energy storage; solar energy systems; photovoltaic, PV system engineering, stand-alone and grid connected systems, sizing and maximum power tracking; solar water pumping; micro-hydro systems and control; tidal power, wave energy converters, ocean thermal systems. Applications of hybrid energy system sizing software are also included in the course.
+PR: ENGI 4841 or the former ENGI 5842
+7894 Concurrent Programming surveys parallel and distributed architectures and examines patterns of concurrent program design; correctness of concurrent programs: safety and liveness properties, proof of properties; synchronization using locks, semaphores, and monitors; communication using message passing and remote procedures; parallelization for high-performance computation and advanced topics such as scientific applications, distributed systems, model checking, and transaction processing.
+CR: the former ENGI 8893
+PR: ENGI 6861, ENGI 6892
+7901 Heat Transfer II examines advanced topics in heat transfer; multi-dimensional conduction: shape factors, numerical methods, moving heat sources; heat transfer equipment: heat exchangers, heat exchanger design principles; phase change heat transfer: melting, solidification, condensation, and boiling.
+LH: at least one 3-hour session per semester
+PR: ENGI 6901
+7903 Mechanical Equipment examines performance characteristics of mechanical equipment; fluid power devices: pipes; valves; pumps; fans; blowers; compressors; storage tanks; heat transfer devices: heat exchangers; boilers; cooling towers; and pressure vessels.
+LH: at least three 1.5-hour sessions per semester
+PR: ENGI 6901
+7911 Industrial Materials examines physical and mechanical properties; industrial materials; metals and metal alloys, ceramics and polymer, composite materials, failure modes and mechanisms, non-destructive testing and evaluation; damage tolerant materials; material treatments; and materials selection.
+CR: the former ENGI 6972
+LH: at least 20 hours per semester
+PR: ENGI 5911
+7926 Mechanical Design Project I is the first of two capstone design courses in the Mechanical Discipline. In this course mechanical students are organized into small groups or teams, which must complete a common design challenge. The project is presented as an open-ended problem statement with specific performance objectives. The system must be designed, prototyped and tested during the course of the term. Each team is a small consulting firm and is required to document its object planning as well as its design.
+CR: the former ENGI 7936
+LC: scheduled as required
+LH: scheduled as required
+PR: ENGI 4102, completion of Academic Term 6 of the Mechanical Engineering program
+7929 Mechanical Component Design II same as the former ENGI 6927) is a continuation of the ENGI 6929 course in analysis and synthesis of machinery, including advanced analysis of machine elements such as clutches, brakes, couplings, journal bearings and gears. Advanced machine design concepts are examined, such as reliability, optimization and techniques for stimulating innovative design. A synthesis project involving the machine elements studied is usually included.
+CR: the former ENGI 6926 or 6927
+LH: at least ten 3-hour sessions per semester
+PR: ENGI 6929 or the former 5927
+7930 Instrumentation and Experimental Design involves instrumentation and measurement techniques, sensors for motion and process control, data acquisition and signal conditioning; the design, conduct, and analysis of engineering, scientific, and numerical experiments; design of experiments: factorial design and analysis; and response surface methodology (RSM).
+LH: five 3-hour sessions per semester
+PR: ENGI 4421
+7934 Finite Element Analysis examines the basis of the finite element method. The course examines continuum mechanics applications; beam problems, fluid mechanics problems, and heat transfer problems. There are relevant computer laboratory exercises
+LH: at least ten 2-hour sessions per semester
+PR: ENGI 4430, ENGI 5931
+7952 Robotics and Automation provides the fundamentals in robotic manipulators and arms. The course provides basic understanding in coordinate transformations for spatial description, both kinematical and kinetic analysis, forces and dynamics and finally trajectory generations and path planning.
+CR: the former ENGI 7944
+LH: at least three 3-hour sessions per semester
+PR: ENGI 1040, ENGI 4430
+7953 Mechatronics II (same as the former ENGI 5951) emphasizes the integration of the core technologies on which contemporary, mechatronic designs are based. Topics covered include semiconductors devices, analog and digital electronics; microcontroller technology and interfacing; sensors for motion control; selection, sizing, and modelling of electric servomotors, servovalves and hydraulic actuators; position, velocity, and force control; digital and analog implementation of controller architectures; mechatronic design case studies.
+CR: the former 5951
+LH: five 3-hour sessions per semester
+PR: ENGI 5952
+# https://www.mun.ca/regoff/calendar/sectionNo=ENGI-0643
+8000 Ocean and Naval Architectural Engineering Project executes the design project selected and approved in Term 7. The project must illustrate the application of previous design related courses, i.e., decision methods, impact assessments and application of technology. The subject may be ship design, marine system, directed research or a unique design solution. Lectures will be scheduled as required.
+LH: 3
+PR: ENGI 7000
+8003 Small Craft Design presents the fundamentals of naval architecture as practised in small craft design, and develops a methodology for a variety of craft: tenders, lifeboats, planning vessels, dinghies, coastal cruisers and large, state of the art racing yachts. The emphasis is on recreational craft of all sizes, with special emphasis on sailing vessels. Special topics, such as choice of material of construction, scantlings, performance prediction, seaworthiness, tank testing, modern construction materials and techniques are covered. Specific design problems unique to small craft will be covered such as; mast design and sail area determination, and the state of the art in performance prediction. Students will do a design of their choice over duration of the course. Small weekly design studies will be required.
+LH: at least 12 hours per semester
+PR: ENGI 7035 or the former ENGI 6030
+8054 Advanced Marine Vehicles examines the concepts used in the design of advanced marine vehicles. Emphasis will be given to: structural design of craft constructed from fibre reinforced plastics; high speed marine vehicles (powering, structures, seakeeping and model testing); small craft.
+LH: at least 9 hours per semester
+PR: ENGI 5003
+8058 Submersible Design examines the formulation of mission statement, promotes understanding of various design constraints and reviews the historical developments of submersibles design. The course studies the hydrostatics principles of floatation, stability and control of submersibles. Students will perform resistance and propulsion calculations. The course examines maneuvering and control equations, a survey of different materials and their selection criteria, the design of pressure hulls, the structural design of submersibles and a study of various support systems.
+LH: at least 12 hours per semester
+PR: ENGI 3054
+8074 Arctic Ocean Engineering (same as the former ENGI 8674) examines marine ice as an environmental load factor in the context of ships and engineered structures designed for ice covered waters. Topics include types of naturally occurring ice; sea ice formation and characteristics; mechanical strength of sea ice under common modes of ice failure; modes of ice interaction with ships and marine structures; estimation of ice forces on offshore structures; powering requirements for ice breaking ships; regulations and standards for design of ships and offshore structures in arctic environments.
+CR: the former ENGI 8674
+LH: at least four 3-hour sessions per semester
+PR: ENGI 3934, ENGI 4312
+8150 Engineering Entrepreneurship is an introduction to the concepts, issues, and themes related to business planning, strategy, and entrepreneurship, with an overview of the functional activities in a typical business venture. Business analysis and planning skills are developed. The course explores the business planning and strategic management issues of technology-driven enterprises in the early stages of development and focuses on the engineer as an entrepreneur.
+CR: the former ENGI 8607
+PR: completion of Academic Term 6
+8640 Process Engineering Project II is a design project that illustrates the application of previous engineering science and design related courses. Projects will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the process industry which includes the offshore oil and gas industry, mining and metal processing industry and chemical process industry.
+LC: scheduled as required
+PR: ENGI 7640
+8650 Offshore Oil and Gas Engineering Project II is a multidisciplinary design project that illustrates the application of previous engineering science and design related courses. The project will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the offshore oil and gas engineering industry. Lectures will be scheduled as required.
+CR: the former ENGI 8600
+LC: 1
+PR: ENGI 7650
+8670 Reliability Engineering is an introduction to reliability engineering; physics of failure and failure mechanism, reliability measures and assessment; reliability of components and parts; complex system reliability and availability analysis; and field reliability assessment. The course includes case studies and a project.
+PR: completion of Academic Term 6
+8671 Safety and Risk Engineering begins with an overview of safety and risk issues in the offshore oil and gas industry. The course examines regulatory requirements; hazards and structured analysis tools; risk terminology and quantified risk analysis (QRA) techniques; and safety assessment studies. The course includes project and case studies.
+PR: completion of Academic Term 6
+8673 Subsea Pipeline Engineering provides an introduction to subsea pipeline engineering with a focus on the mechanical design of offshore pipelines. Stress-based, design-based and limit-states design for strength and stability are examined. Other fundamental pipeline engineering design issues such as materials specification, flow assurance and installation are reviewed. Principles of geotechnical engineering and pipeline/soil interaction analysis techniques are investigated. Special topics are also reviewed.
+LH: 2
+PR: one of ENGI 5312, ENGI 5931 or ENGI 6003
+8676 Design of Natural Gas Handling Equipment covers process description, design methods, operating procedures, and troubleshooting aspects of gas production facilities including inlet separation operations, hydrate prevention and control, gas dehydration, NGL recovery and dew point control, gas transmission and pipeline design and transportation systems.
+PR: completion of Academic Term 6
+8677 Process Plant Design and Economics will provide a comprehensive picture of the availability and design of both traditional and current process equipment. Economic and optimization issues relevant to investment, product-cost estimation, and profitability analysis will also be addressed. The course will provide students with tools to evaluate the economics of process industries reflecting current economic criteria, and provide helpful guidelines to approaching, defining, and solving optimization problems.
+PR: ENGI 7623
+8680 Process Control and Instrumentation begins with an introduction to feedback and feedforward control systems, regulatory and servo control. Topics include modelling thermal, gas, liquid and chemical processes; sensors and transmitters, control valve sizing for liquids and gases, industrial feedback controllers; design of feedback control loops, tuning of feedback controllers; cascade, ratio, override and selective control; feedforward control; multivariable process control; piping and instrumentation diagrams, and control system documentation.
+LH: at least four 3-hour sessions per semester.
+PR: ENGI 5821
+8690 Reservoir Engineering examines fluid pressure regimes, oil recovery factors, calculation of hydrocarbon volumes, reservoir rock characteristics, reservoir fluid properties, porosity and permeability, material balance, and well test analysis.
+PR: completion of Academic Term 6
+8691 Petroleum Production Engineering examines the procedures and equipment necessary for preparing a well to produce hydrocarbons and maximizing flow rate during the life of the well; techniques for well productivity analysis in under-saturated, saturated, and natural gas reservoirs; well completion configuration tubulars; packers and subsurface flow control devices; completion and work over fluids; perforating oil and gas wells; formation damage; surfactants for well treatment; hydraulic fracturing; acidizing; scale deposition, removal, and prevention; work over and completion rigs; and artificial lift.
+PR: completion of Academic Term 6
+8692 Drilling Engineering for Petroleum Exploration & Production covers both offshore and onshore drilling operations and includes: rotary drilling rig operations, well construction sequence, drill string, drill bits, well bore hydraulics, casing and well heads, cementing, well control, directional and horizontal drilling, well planning and fishing operations, and extended reach, horizontal and multilateral well drilling techniques.
+PR: completion of Academic Term 6
+8693 Petroleum Facilities Engineering - inactive course.
+8694 Downstream Processing includes: oil and natural gas processing, oil and gas storage facilities and their design, oil and gas separation processes, petroleum refining processes, and de-bottle necking.
+PR: completion of Academic Term 6
+8696 Petroleum Refining Engineering will cover crude and refinery products properties and specifications, process description, design methods, operating procedures, and troubleshooting aspects of modern petroleum refining. It also includes hydrorefining, catalytic reforming, hydrocracking, isomerisation, refinery machinery, and utilities.
+PR: completion of academic term 6 of the Process Engineering program
+8700 Civil Engineering Project is a practically oriented design project integrated over the five areas in which Civil programs are offered. Students will operate in consultant groups and will complete a design for a typical Civil Engineering undertaking.
+LC: scheduled as required
+OR: 1 client meeting per week, 1 tutorial per week
+PR: completion of Term 7 of the Civil Engineering program
+8705 Structural Building Systems examines geometries, loads, safety and serviceability, procedure of using the national building code for evaluating the governing loads on structural members;.design of low rise concrete, timber and steel buildings; lateral load-resisting elements and bracing systems; design of foundation systems, footing design, pile cap design, pile group analysis using elastic centre method and inclined pile analysis; prestressed concrete concepts: strength of flexural members, and shear reinforcement for prestressed concrete beams.
+LH: at least nine 3-hour sessions per semester
+PR: ENGI 6707
+8708 Offshore Structural Design examines guidelines and international codes and standards for offshore structural design; understanding design constraints and concepts of offshore fixed and floating structures; design consideration for fixed offshore concrete platform; design consideration for offshore platform and floating production system design, and analysis of various support systems of the offshore structure.
+PR: ENGI 7707
+8713 Municipal Engineering includes water supply system overview; water consumption estimation; groundwater and surface water sources; oxygen demand and transfer; water treatment processes; water distribution systems and design software; sewer systems and design software; wastewater treatment processes; sludge handling; decentralized and on-site wastewater treatment.
+PR: ENGI 7716
+8717 Environmental Assessment, Monitoring and Control covers statistical analysis; pollution monitoring, and sampling network design; water quality and air quality modelling; environmental risk assessment; environmental impact assessment; site remediation and hazardous waste management. There are relevant field trips and case studies.
+LH: at least ten 3-hour lab sessions per semester
+PR: ENGI 4717
+8740 Contract Law and Labour Relations is an introduction to law as it applies to engineering activity; the nature of law and legal processes, including standard forms; liens, bonds and insurances; the labour movement in North America; examination of union philosophies and managerial attitudes; labour law and collective bargaining; disputes and settlements.
+CR: the former ENGI 6740
+PR: completion of Term 7 of the Civil Engineering program
+8751 Coastal and Ocean Engineering examines the coastal and ocean environment; ocean circulation and properties; waves and tides; instrumentation and measurement. Additional topics will be drawn from the areas of hydraulic, geotechnical and structural engineering. Relevant field exercises will be conducted.
+PR: ENGI 6713
+8821 Design of Digital Signal Processing Systems is a review of introductory digital signal processing (DSP) principles, including sampling theory and discrete-time systems and signals. Topics include transform analysis of DSP systems; issues in the implementation of DSP systems; design of IIR and FIR digital filters; computable transforms and their use in the frequency analysis of digital signals; and design of DSP systems for current and emerging applications of digital signal processing.
+PR: ENGI 7824
+8826 Filter Synthesis begins with an introduction to analog filters. The course examines descriptive terminology, transfer functions and frequency response of filters; design of first order passive and active filters; design and analysis of biquad circuit, Sallen key circuit, multiple feedback circuit and state variable filter; RC-CR transformation; inductance simulation circuit; cascade design principle; design of filters with maximally flat magnitude response; design of filters with equal ripple magnitude response; design of Bessel-Thomson filters; analysis and design of switched capacitor filters; and the use of Matlab for design of analog filters.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 5854
+8845 Power System Operation examines symmetrical components; power system fault analysis; power system stability; and power system protection.
+LH: at least four 3-hour sessions per semester
+PR: ENGI 7844
+8853 Electrical Engineering Design Project II continues ENGI 7803 and provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving an electrical engineering design problem. Students work in small teams with the assistance of a faculty mentor to complete detailed design, implementation and testing of an electrical engineering system to solve the problem as defined in 7803.
+CR: the former ENGI 8800
+LC: 0
+OR: weekly meetings with project supervisor
+PR: 7803
+8854 Computer Engineering Design Project II continues ENGI 7804 and provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a computer engineering design problem. Students work in small teams with the assistance of a faculty mentor to complete detailed design, implementation and testing of an computer engineering system to solve the problem as defined in 7804.
+CR: : the former ENGI 8800
+LC: 0
+OR: weekly meetings with project supervisor
+PR: 7804
+8863 Introduction to LSI Design (same as Computer Science 4725) is an introduction to ASICs and ASIC design methodology and includes basic concepts of digital logic design tools and ASIC technology libraries; partitioning for logic synthesis and VHDL coding; constraining designs, synthesizing, simulation and optimization; design for testability; layout and post-layout optimization and SDF generation; and static timing analysis.
+LH: at least eight 3-hour sessions per semester
+PR: ENGI 5865
+8868 Computer and Communications Security examines the techniques used to provide security in communication networks and computer systems. The course focuses on topics in cryptography required to provide privacy, authentication, and integrity, including symmetric key ciphers, public key ciphers, message authentication, and digital signature schemes.
+PR: ENGI 6876
+8877 Wireless and Mobile Communications (same as the former ENGI 8804) covers the fundamentals and main concepts of wireless and mobile communication systems focusing on the system level design and performance. Main topics to be covered include Introduction to Wireless Communication Systems, Wireless Channel Models, Frequency Reuse Concept, Wireless Multiple Access Techniques (TDMA, FDMA, CDMA), Orthogonal Frequency Division Multiplexing (OFDM), Wireless Systems (GSM, 3G, LTE, etc.).
+CR: the former ENGI 8804
+PR: ENGI 6871, ENGI 6876
+8879 Digital Communications is a review of baseband transmission and basic digital modulation schemes, detection (optimum receiver, matched filter, correlator), error performance, intersymbol interference (ISI), equalization, the concept of information and entropy, source coding including Huffman coding and linear predictive coding, channel coding including block and convolutional error correcting codes, modulation and coding trade-offs, bandwidth and power efficiency.
+PR: ENGI 6871
+8894 Real-time Operating Systems examines real-time process scheduling; memory and device management; I/O communications; real-time systems; operating system and hardware concurrency issues; kernel architectures; device drivers; and a survey of available real-time operating systems and embedded platforms.
+CR: the former ENGI 7863, Computer Science 4721
+PR: ENGI 7894
+8903 Mechanical Systems examines mechanical systems design; system simulation, control, and optimization; design optimization and system performance evaluation; design case studies and equipment for overall system design.
+PR: ENGI 6901
+8911 Corrosion and Corrosion Control examines forms of corrosion; the electrochemical nature of the corrosion process; the mixed potential theory, Purbaix diagrams and Evan diagrams; corrosion testing, control use by use of materials, selection, cathodic protection, inhibitors, and coatings. There are case studies of selected corrosion problems.
+CR: the former ENGI 8962
+LH: at least five 3-hour sessions per semester
+PR: ENGI 7911
+8926 Mechanical Design Project II is the second of two capstone design courses in the Mechanical Discipline. Building on skills acquired in the first, student teams each choose a unique design challenge and then proceed to generate a solution. The problem statements are often drawn from industry and, where possible, interdisciplinary interaction is encouraged (for example, with business, computer science, or other engineering disciplines). In most cases, the problem proponent will act as the “client” and the team is expected to manage the client interaction process as well. Significant emphasis is placed on both oral and written communication of both the process and results. Wherever possible, each system or a critical component of it, will be prototyped and tested.
+CR: the former ENGI 8936
+LC: scheduled as required
+LH: scheduled as required
+PR: ENGI 7926
+8933 Fatigue and Fracture Mechanics - inactive course.
+8935 Pressure Component Design examines traditional design methods; load types; sustained, cyclic, impact; failure modes and mechanisms; incremental collapse; plastic shakedown; upper bound and lower bound approximations; loa cycle fatigue; and rational design procedures. Case studies are conducted for cylinders; plates; shells.
+PR: ENGI 5931
+8937 Machine Dynamics begins with a review of Newton's Law, planar rigid body kinematics and kinetics. Topics include three-dimensional kinematics and kinetics: orientation angles, rotation matrices, Euler’s equations. Lagrange's and Hamilton's equations, constraints, dynamic simulation of linkages, mechanism loads, balancing, engine dynamics. There is a student analysis project.
+CR: the former ENGI 7945
+LH: at least eight 1-hour sessions per semester
+PR: ENGI 4932, 6933
+8945 Production & Operations Management is an overview of production and operations management, and an examination of decision making and operations strategy; process design and improvement, process flow analysis/simulation, capacity planning; design of value chains, lean systems, plant layout and process planning; operating value chains, MIS systems, inventory and resource management; Relevant computer laboratory exercises are conducted.
+CR: the former ENGI 7943
+PR: ENGI 6901
+8946 Modelling and Simulation of Dynamic Systems has an emphasis on interdisciplinary system models, equation formulation and structure, and model complexity. The bond graph modelling language will be introduced to simulate systems containing mechanical, electrical, thermal, hydraulic, and magnetic components.
+CR: ENGI 9496
+PR: ENGI 5952
+8947 Computational Fluid Dynamics begins with a review of the equations governing viscous fluid flows and heat transfer. The course includes heat conduction, convection-diffusion, and fluid flow equations; gridding, dependent variable interpolation, discretized equations, solution of the discretized equations, transients and nonlinearities; testing and validation of CFD codes, standard test problems.
+CR: ENGI 9977
+PR: ENGI 6961
+8964 Fluid Structure Interactions examines structural vibrations generated by fluid flow. These vibrations can be transient or they can take the form of instability or resonance. The course deals with the following fluid structure interactions: (1) Flow induced vibration of structures (2) Unsteady flow in pipe networks (3) Water wave interactions with structures.
+CR: the former ENGI 8904
+LH: at least three 3-hour sessions per semester
+PR: ENGI 6961, ENGI 6933
+8965 Advanced Fluid Dynamics includes fluid kinematics; equations of fluid dynamics: Navier-Stokes equations, Euler's equations, Stokes' equations, vorticity transport; low Reynolds flows; unsteady viscous flows; boundary layer flows; potential flows; introduction to turbulent flow; free shear flows.
+CR: ENGI 9901
+PR: ENGI 6961
