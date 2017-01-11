@@ -27,7 +27,7 @@ colours[9] = '#ff00005f'   # Mechanical
 
 courses = {}
 for filename in args.filename:
-	courses.update(calendar.parse(open(filename), prefix = 'ENGI'))
+	courses.update(calendar.parseText(open(filename), prefix = 'ENGI'))
 
 	for course in courses.values():
 		if course['name'].startswith('ENGI '):

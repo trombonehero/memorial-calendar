@@ -31,7 +31,7 @@ codes = {
 }
 
 
-def parse(calfile, prefix = 'ENGI'):
+def parseText(calfile, prefix = 'ENGI'):
 	courses = {}
 
 	for line in calfile:
