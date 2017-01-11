@@ -1,6 +1,6 @@
 import re
 
-course_number = re.compile('[0-9]{4} [A-Z][a-z]+')
+course_number = re.compile('[0-9W]{4} [A-Z][a-z]+')
 numeric = re.compile('^[0-9]+$')
 
 
@@ -36,14 +36,10 @@ def parse(calfile, prefix = 'ENGI'):
 	for line in calfile:
 		line = line.strip()
 
-		if line.startswith('# '):
-			url = line[2:]
-
-		elif course_number.match(line):
-			number = int(line.split()[0])
-			name = '%s %d' % (prefix, number)
+		if course_number.match(line):
+			number = line.split()[0]
+			name = '%s %s' % (prefix, number)
 			course = {
-				'calendar_url': url,
 				'credit-hours': 3,
 				'description': line[5:].strip(),
 				'lecture hours': 3,
