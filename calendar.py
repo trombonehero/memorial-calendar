@@ -2,6 +2,7 @@ import re
 
 course_number = re.compile('[0-9W]{4} [A-Z][a-z]+')
 numeric = re.compile('^[0-9]+$')
+special_topics = re.compile('[0-9]{4}-[0-9]{4} [A-Z][a-z]+')
 
 
 
@@ -35,6 +36,9 @@ def parse(calfile, prefix = 'ENGI'):
 
 	for line in calfile:
 		line = line.strip()
+
+		if special_topics.match(line):
+			continue
 
 		if course_number.match(line):
 			number = line.split()[0]
