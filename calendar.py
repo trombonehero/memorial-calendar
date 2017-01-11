@@ -1,3 +1,4 @@
+from bs4 import BeautifulSoup
 import re
 
 course_number = re.compile('[0-9W]{4} [A-Z][a-z]+')
@@ -6,21 +7,27 @@ special_topics = re.compile('[0-9]{4}-[0-9]{4} [A-Z][a-z]+')
 
 
 
-def parse_prerequisites(s):
+def parse_prerequisites(s, prefix):
 	prereqs = []
+
 	for x in s.split(' or '):
 		for y in x.split(','):
-			prereqs += [ y.strip() ]
+			y = y.strip()
+
+			if y.startswith('permission of'):
+				continue
+
+			prereqs += [ prefix + ' ' + y if numeric.match(y) else y ]
 
 	return prereqs
 
 
 # A dictionary of calendar codes, their human-readable names and functions
 # that parse and format them.
-_ = lambda x : x
+_ = lambda x, _ : x
 codes = {
 	'AR': ('attendance', _, _),
-	'CH': ('credit-hours', lambda x : int(x), _),
+	'CH': ('credit-hours', lambda x, _ : int(x), _),
 	'CO': ('co-requisite', _, _),
 	'CR': ('exclusive with', _, _),
 	'LC': ('lecture hours', _, _),
@@ -29,6 +36,56 @@ codes = {
 	'PR': ('prerequisites', parse_prerequisites, lambda xs: ', '.join(xs)),
 	'UL': ('limitations', _, _),
 }
+
+
+def parseHTML(calfile, prefix = 'ENGI'):
+	courses = {}
+
+	soup = BeautifulSoup(calfile, 'html.parser')
+
+	for block in soup.find_all(class_ = 'CourseBlock'):
+		for c in block.find_all(class_ = 'course'):
+			number = c.find(class_ = 'courseNumber').string.strip()
+			name = '%s %s' % (prefix, number)
+			title = c.find(class_ = 'courseTitle').string.strip()
+			description = ''.join([
+				d.string.strip()
+					for d in c.find(class_ = 'courseDesc').p
+					if d.string is not None
+			])
+
+			if 'inactive course' in description:
+				continue
+
+			course = {
+				'credit-hours': 3,
+				'description': description,
+				'lecture hours': 3,
+				'name': name,
+				'number': number,
+				'title': title,
+			}
+
+			courses[name] = course
+
+			for attr in c.find_all(class_ = 'courseAttrs'):
+				content = ' '.join([
+					a.string.strip()
+						for a in attr
+						if a.string is not None
+				])
+
+				# We can't just assign parts to (key,value) because at least
+				# one calendar entry has an extra colon between the code and
+				# the string value.
+				parts = content.split(':')
+				key = parts[0]
+				value = parts[-1].strip()
+
+				(name,parse,reformat) = codes[key]
+				course[name] = parse(value, prefix)
+
+	return courses
 
 
 def parseText(calfile, prefix = 'ENGI'):
@@ -66,17 +123,14 @@ def parseText(calfile, prefix = 'ENGI'):
 			value = parts[-1].strip()
 
 			(name,parse,reformat) = codes[key]
-			course[name] = parse(value)
+			course[name] = parse(value, prefix)
 
-			if name == 'prerequisites':
-				course['prerequisites'] = [
-					prefix + ' ' + c if numeric.match(c) else c
-						for c in course['prerequisites']
-				]
+	return courses
 
-	#
-	# Handle some pseudo-courses
-	#
+
+def pseudo_prerequisites():
+	courses = {}
+
 	for (name,prereqs) in {
 	'completion of Term 3 of the Civil Engineering program':
 		[ 'ENGI 3101', 'ENGI 3425', 'ENGI 3610',

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
-import calendar
+import calendar as cal
 import collections
 import dot
 import sys
@@ -25,9 +25,16 @@ colours[7] = '#0000005f'   # Civil
 colours[8] = '#0000ff5f'   # ECE
 colours[9] = '#ff00005f'   # Mechanical
 
-courses = {}
+courses = collections.defaultdict(dict)
+courses.update(cal.pseudo_prerequisites())
+
 for filename in args.filename:
-	courses.update(calendar.parseText(open(filename), prefix = 'ENGI'))
+	f = open(filename)
+	html = filename.endswith('.htm') or filename.endswith('.html')
+	parse = cal.parseHTML if html else cal.parseText
+
+	for (name,c) in parse(open(filename), prefix = 'ENGI').items():
+		courses[name].update(c)
 
 	for course in courses.values():
 		if course['name'].startswith('ENGI '):
